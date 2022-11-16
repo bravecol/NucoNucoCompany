@@ -1,13 +1,13 @@
-package net.nuconuco.appbase;
+package net.nuconuco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppbaseApplication {
+public class NucoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppbaseApplication.class, args);
+		SpringApplication.run(NucoApplication.class, args);
 	}
 
 }

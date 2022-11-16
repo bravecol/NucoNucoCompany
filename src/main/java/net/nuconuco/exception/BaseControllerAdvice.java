@@ -1,4 +1,4 @@
-package net.nuconuco.appbase.exception;
+package net.nuconuco.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

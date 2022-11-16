@@ -1,4 +1,4 @@
-package net.nuconuco.appbase.application.controller;
+package net.nuconuco.pl.controller;
 
 import java.util.UUID;
 
@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.nuconuco.appbase.application.model.ResponseData;
+import net.nuconuco.pl.model.ResponseData;
 
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;

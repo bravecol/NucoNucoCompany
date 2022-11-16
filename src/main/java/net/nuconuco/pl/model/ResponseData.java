@@ -1,4 +1,4 @@
-package net.nuconuco.appbase.application.model;
+package net.nuconuco.pl.model;
 
 import lombok.Builder;
 import lombok.Getter;
